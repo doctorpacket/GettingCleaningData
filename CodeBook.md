@@ -75,22 +75,54 @@ Standard deviation of body angular velocity over Y-axis in time domain, in unit 
 ### tBodyGyroStdDevZ          
 Standard deviation of body angular velocity over Z-axis in time domain, in unit radians/s, normalized in the range of [-1, 1]
 
-### tBodyGyroJerkMeanX         
+### tBodyGyroJerkMeanX       
+Mean body angular jerk over X-axis in time domain, in unit radians/s^2, normalized in the range of [-1, 1]
+
 ### tBodyGyroJerkMeanY        
+Mean body angular jerk over Y-axis in time domain, in unit radians/s^2, normalized in the range of [-1, 1]
+
 ### tBodyGyroJerkMeanZ         
+Mean body angular jerk over Z-axis in time domain, in unit radians/s^2, normalized in the range of [-1, 1]
+
 ### tBodyGyroJerkStdDevX      
-### tBodyGyroJerkStdDevY       
+Standard deviation of body angular jerk over X-axis in time domain, in unit radians/s^2, normalized in the range of [-1, 1]
+
+### tBodyGyroJerkStdDevY    
+Standard deviation of body angular jerk over Y-axis in time domain, in unit radians/s^2, normalized in the range of [-1, 1]
+
 ### tBodyGyroJerkStdDevZ      
-### tBodyAccMagMean            
+Standard deviation of body angular jerk over Z-axis in time domain, in unit radians/s^2, normalized in the range of [-1, 1]
+
+### tBodyAccMagMean      
+Mean body acceleration (Euclidean norm) in time domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
 ### tBodyAccMagStdDev         
-### tGravityAccMagMean         
-### tGravityAccMagStdDev      
-### tBodyAccJerkMagMean        
+Standard deviation of body acceleration (Euclidean norm) in time domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
+### tGravityAccMagMean     
+Mean gravity acceleration (Euclidean norm) in time domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
+### tGravityAccMagStdDev    
+Standard deviation of gravity acceleration (Euclidean norm) in time domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
+### tBodyAccJerkMagMean     
+Mean body jerk (Euclidean norm) in time domain, in unit G/s, normalized in the range of [-1, 1]
+
 ### tBodyAccJerkMagStdDev     
-### tBodyGyroMagMean           
+Standard deviation of body jerk (Euclidean norm) in time domain, in unit G/s, normalized in the range of [-1, 1]
+
+### tBodyGyroMagMean  
+Mean body angular velocity (Euclidean norm) in time domain, in unit radians/s, normalized in the range of [-1, 1]
+
 ### tBodyGyroMagStdDev        
-### tBodyGyroJerkMagMean       
+Standard deviation of body angular velocity (Euclidean norm) in time domain, in unit radians/s, normalized in the range of [-1, 1]
+
+### tBodyGyroJerkMagMean     
+Mean body angular jerk (Euclidean norm) in time domain, in unit radians/s^2, normalized in the range of [-1, 1]
+
 ### tBodyGyroJerkMagStdDev    
+Standard deviation of body angular jerk (Euclidean norm) in time domain, in unit radians/s^2, normalized in the range of [-1, 1]
+
 ### fBodyAccMeanX              
 ### fBodyAccMeanY             
 ### fBodyAccMeanZ              
