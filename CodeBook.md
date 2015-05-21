@@ -214,6 +214,7 @@ Activity performed by subject.  There are 6 possible activities:
 * LAYING
 
 
+====================================================================
 ## Summary Dataset (summaryDf)
 
 ### tAvgBodyAccMeanX
