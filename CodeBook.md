@@ -123,33 +123,95 @@ Mean body angular jerk (Euclidean norm) in time domain, in unit radians/s^2, nor
 ### tBodyGyroJerkMagStdDev    
 Standard deviation of body angular jerk (Euclidean norm) in time domain, in unit radians/s^2, normalized in the range of [-1, 1]
 
-### fBodyAccMeanX              
-### fBodyAccMeanY             
-### fBodyAccMeanZ              
-### fBodyAccStdDevX           
-### fBodyAccStdDevY            
-### fBodyAccStdDevZ           
+### fBodyAccMeanX
+Mean body acceleration over X-axis in frequency domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
+### fBodyAccMeanY
+Mean body acceleration over Y-axis in frequency domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
+### fBodyAccMeanZ
+Mean body acceleration over Z-axis in frequency domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
+### fBodyAccStdDevX
+Standard deviation of body acceleration over X-axis in frequency domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
+### fBodyAccStdDevY
+Standard deviation of body acceleration over Y-axis in frequency domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
+### fBodyAccStdDevZ
+Standard deviation of body acceleration over Z-axis in frequency domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
 ### fBodyAccJerkMeanX          
+Mean body jerk over X-axis in frequency domain, in unit G/s, normalized in the range of [-1, 1]
+
 ### fBodyAccJerkMeanY         
-### fBodyAccJerkMeanZ          
-### fBodyAccJerkStdDevX       
-### fBodyAccJerkStdDevY        
+Mean body jerk over Y-axis in frequency domain, in unit G/s, normalized in the range of [-1, 1]
+
+### fBodyAccJerkMeanZ  
+Mean body jerk over Z-axis in frequency domain, in unit G/s, normalized in the range of [-1, 1]
+
+### fBodyAccJerkStdDevX  
+Standard deviation of body jerk over X-axis in frequency domain, in unit G/s, normalized in the range of [-1, 1]
+
+### fBodyAccJerkStdDevY      
+Standard deviation of body jerk over Y-axis in frequency domain, in unit G/s, normalized in the range of [-1, 1]
+
 ### fBodyAccJerkStdDevZ       
-### fBodyGyroMeanX             
+Standard deviation of body jerk over Z-axis in frequency domain, in unit G/s, normalized in the range of [-1, 1]
+
+### fBodyGyroMeanX
+Mean body angular velocity over X-axis in frequency domain, in unit radians/s, normalized in the range of [-1, 1]
+
 ### fBodyGyroMeanY            
+Mean body angular velocity over Y-axis in frequency domain, in unit radians/s, normalized in the range of [-1, 1]
+
 ### fBodyGyroMeanZ             
-### fBodyGyroStdDevX          
-### fBodyGyroStdDevY           
+Mean body angular velocity over Z-axis in frequency domain, in unit radians/s, normalized in the range of [-1, 1]
+
+### fBodyGyroStdDevX       
+Standard deviation of body angular velocity over X-axis in frequency domain, in unit radians/s, normalized in the range of [-1, 1]
+
+### fBodyGyroStdDevY    
+Standard deviation of body angular velocity over Y-axis in frequency domain, in unit radians/s, normalized in the range of [-1, 1]
+
 ### fBodyGyroStdDevZ          
-### fBodyAccMagMean            
+Standard deviation of body angular velocity over Z-axis in frequency domain, in unit radians/s, normalized in the range of [-1, 1]
+
+### fBodyAccMagMean      
+Mean body acceleration (Euclidean norm) in frequency domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
 ### fBodyAccMagStdDev         
-### fBodyBodyAccJerkMagMean    
-### fBodyBodyAccJerkMagStdDev 
-### fBodyBodyGyroMagMean       
-### fBodyBodyGyroMagStdDev    
-### fBodyBodyGyroJerkMagMean   
-### fBodyBodyGyroJerkMagStdDev
+Standard deviation of body acceleration (Euclidean norm) in frequency domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
+### fBodyBodyAccJerkMagMean     
+Mean body jerk (Euclidean norm) in frequency domain, in unit G/s, normalized in the range of [-1, 1]
+
+### fBodyBodyAccJerkMagStdDev     
+Standard deviation of body jerk (Euclidean norm) in frequency domain, in unit G/s, normalized in the range of [-1, 1]
+
+### fBodyBodyGyroMagMean  
+Mean body angular velocity (Euclidean norm) in frequency domain, in unit radians/s, normalized in the range of [-1, 1]
+
+### fBodyBodyGyroMagStdDev        
+Standard deviation of body angular velocity (Euclidean norm) in frequency domain, in unit radians/s, normalized in the range of [-1, 1]
+
+### fBodyBodyGyroJerkMagMean     
+Mean body angular jerk (Euclidean norm) in frequency domain, in unit radians/s^2, normalized in the range of [-1, 1]
+
+### fBodyBodyGyroJerkMagStdDev    
+Standard deviation of body angular jerk (Euclidean norm) in frequency domain, in unit radians/s^2, normalized in the range of [-1, 1]
+
 ### subjectid                  
+ID of subject being tested and observed.  There are 30 subjects, numbered [1:30]
+
 ### activity    
+Activity performed by subject.  There are 6 possible activities:
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
+
 
 
