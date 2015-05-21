@@ -4,7 +4,7 @@ README for run_analysis.R
 The run_analysis.R script perform the following high-level steps:
 
 * loads the data.table library for faster performance
-* leads the training and test data
+* loads the training and test data
 * populates training and test data column names with the 561 feature names from features.txt
 * subsets training and test data into mean and std dev measurements only
 * loads and populates subject ID for each observation
