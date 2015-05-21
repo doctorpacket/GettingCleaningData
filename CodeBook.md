@@ -1,9 +1,32 @@
 Data Dictionary - Human Activity Recognition with Samsung Smartphone
 ====================================================================
 
-"tBodyAccMeanX"              "tBodyAccMeanY"             
- [3] "tBodyAccMeanZ"              "tBodyAccStdDevX"           
- [5] "tBodyAccStdDevY"            "tBodyAccStdDevZ"           
+## Merged Training + Test Dataset (allDf)
+
+### tBodyAccMeanX
+
+Mean body acceleration over X-axis in time domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
+### tBodyAccMeanY
+
+Mean body acceleration over Y-axis in time domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
+### tBodyAccMeanZ
+
+Mean body acceleration over Z-axis in time domain, in standard gravity unit G, normalized in the range of [-1, 1]
+
+### tBodyAccStdDevX
+
+Standard deviation of acceleration over X-axis in time domain, normalized in the range of [-1, 1]
+
+### tBodyAccStdDevY
+
+Standard deviation of acceleration over Y-axis in time domain, normalized in the range of [-1, 1]
+
+### tBodyAccStdDevZ
+
+Standard deviation of acceleration over Z-axis in time domain, normalized in the range of [-1, 1]
+
  [7] "tGravityAccMeanX"           "tGravityAccMeanY"          
  [9] "tGravityAccMeanZ"           "tGravityAccStdDevX"        
 [11] "tGravityAccStdDevY"         "tGravityAccStdDevZ"        
